@@ -1,0 +1,29 @@
+_repo: Silm-nk--nt-j-eli-Jussi-Oluvisen-matka-H-lm-l--n--ilveilys-2-ssa-n-yt-ksess-_15104
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hannikainen, Pietari
+    birthdate: 1813
+    deathdate: 1899
+    gutenberg_agent_id: '5858'
+    url: http://www.gutenberg.org/2009/agents/5858
+    wikipedia: http://fi.wikipedia.org/wiki/Pietari_Hannikainen
+description: ''
+gutenberg_issued: '2005-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15104'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Drama'
+title: 'Silmänkääntäjä
+
+  eli Jussi Oluvisen matka Hölmölään; ilveilys 2:ssa näytöksessä'
+url: http://www.gutenberg.org/ebooks/15104
